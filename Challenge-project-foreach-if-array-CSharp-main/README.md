@@ -1,0 +1,2 @@
+# Challenge-project-foreach-if-array-CSharp
+Código inicial e solução para o projeto de desafio: "Desenvolver estruturas foreach e if-elseif-else para processar dados de array em C#" da coleção Microsoft Learn "Introdução ao C#".
