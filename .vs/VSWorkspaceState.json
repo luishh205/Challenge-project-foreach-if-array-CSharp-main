@@ -3,17 +3,11 @@
     "",
     "\\Challenge-project-foreach-if-array-CSharp-main",
     "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\Debug",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\Debug\\net8.0",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\Release",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\obj\\Release\\net8.0",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj\\Debug",
-    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter\\obj\\Debug\\net8.0"
+    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\ConsoleAppPet",
+    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\ConsoleAppPet\\ConsoleApp1",
+    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\ConsoleAppPet\\ConsoleApp2",
+    "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Starter"
   ],
-  "SelectedNode": "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\Final\\Program.cs",
+  "SelectedNode": "\\Challenge-project-foreach-if-array-CSharp-main\\ChallengeProject\\ConsoleAppPet\\ConsoleApp2\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
