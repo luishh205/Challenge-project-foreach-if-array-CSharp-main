@@ -9,6 +9,7 @@ namespace AppZoologico
             "alpacas", "capybaras", "chickens", "ducks", "emus", "geese",
             "goats", "iguanas", "kangaroos", "lemurs", "llamas", "macaws",
             "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
+            "ostriches", "pigs", "ponies", "rabbits", "sheep", "tortoises",
 
         }
 
